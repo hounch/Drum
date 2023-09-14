@@ -1,0 +1,58 @@
+body {
+    background-color: #29304a;
+    text-align: center;
+}
+
+h1 {
+    color: #DBEDF3;
+    text-shadow: #DA0463 1px 0;
+    font-size: 5rem;
+    font-family: "Arvo", cursive;
+}
+
+.btn1 {
+    background-image: url('images/tom1.png');
+}
+
+.btn2 {
+    background-image: url('images/tom2.png');
+}
+
+.btn3 {
+    background-image: url('images/tom3.png');
+}
+
+.btn4 {
+    background-image: url('images/tom4.png');
+}
+
+.btn5 {
+    background-image: url('images/crash.png');
+}
+
+.btn6 {
+    background-image: url('images/kick.png');
+}
+
+.btn7 {
+    background-image: url('images/snare.png');
+}
+
+button {
+    outline: none;
+    margin: 6px;
+    border-radius: 7%;
+    border: solid #404B69 4px;
+    width: 7rem;
+    height: 7rem;
+    font-size: 3.6rem;
+    /* font-weight fix */
+    color: #DA0463;
+    font-weight: 510;
+    background-color: white
+}
+
+/* Color of shadow #DA0463 */
+/* Color of things #DBEDF3 */
+
+/* gray 404B69 */
